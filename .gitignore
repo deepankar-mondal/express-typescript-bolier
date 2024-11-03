@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Output directories
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Debugger configurations
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Optional npm cache directory
+.npm/
+
+# Temporary files
+tmp/
+temp/
+
+# Ignore compiled JavaScript files (if transpiling to 'src' directory)
+src/**/*.js
+src/**/*.js.map
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore local Yarn 
